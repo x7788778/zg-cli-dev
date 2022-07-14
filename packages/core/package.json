@@ -1,6 +1,6 @@
 {
   "name": "@zg-cli-dev/core",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "zg-cli-dev core",
   "author": "zhaogang <156606672@qq.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"test core\""
   },
   "dependencies": {
-    "@zg-cli-dev/utils": "^1.0.0",
+    "@zg-cli-dev/utils": "^1.0.6",
     "lodash": "^4.17.21"
   },
   "gitHead": "7ac53255dc921b1ea362103fb88a1f716a741112",
