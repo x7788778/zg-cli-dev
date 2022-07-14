@@ -20,7 +20,7 @@
     "@zg-cli-dev/utils": "^1.0.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "97867fd42bdaea91e05a578dc9b61f9f9ec2b446",
+  "gitHead": "7ac53255dc921b1ea362103fb88a1f716a741112",
   "publishConfig": {
     "access": "public"
   }
