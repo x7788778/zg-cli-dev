@@ -19,5 +19,6 @@
   "dependencies": {
     "@zg-cli-dev/utils": "^1.0.0",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "92cc0d4208a0e0bd93e553f7cf07b665f8970f4c"
 }
