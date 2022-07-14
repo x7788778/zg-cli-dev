@@ -1,7 +1,7 @@
 {
-  "name": "utils",
+  "name": "@zg-cli-dev/utils",
   "version": "1.0.5",
-  "description": "@zh-cli-dev utils",
+  "description": "zg-cli-dev utils",
   "author": "zhaogang <156606672@qq.com>",
   "homepage": "",
   "license": "ISC",
