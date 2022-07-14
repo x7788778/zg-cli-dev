@@ -1,6 +1,6 @@
 {
   "name": "@zg-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "zg-cli-dev core",
   "author": "zhaogang <156606672@qq.com>",
   "homepage": "",
@@ -20,5 +20,5 @@
     "@zg-cli-dev/utils": "^1.0.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "92cc0d4208a0e0bd93e553f7cf07b665f8970f4c"
+  "gitHead": "b58d8ce3033588b22607abf2c00f4d7a5e366747"
 }
